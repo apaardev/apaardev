@@ -2,7 +2,7 @@
 - 👀 I’m interested in web/ui/ux
 - 🌱 I’m currently working on magento 2 with hyva
 - 💞️ I’m looking to collaborate on php, javascript
-- 📫 How to reach me via email
+- 📫 Reach me via email
 - ⚡ Fun fact: I don't like bugs 
 
 <!---
